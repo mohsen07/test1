@@ -7,5 +7,6 @@ namespace WebApplication_git_test
 {
     public class TestClass
     {
+        public int MyProperty { get; set; }
     }
 }
